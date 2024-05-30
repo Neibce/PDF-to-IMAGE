@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">PDF to IMAGE</string>
+    <string name="you_can_minimize_this_app">You can minimize this application.</string>
+    <string name="converting_">Converting…</string>
+    <string name="select_file">Select File</string>
+    <string name="select_pages_to_covert">Select Pages to Convert.</string>
+    <string name="loading_file">Loading File…</string>
+    <string name="convert">Convert</string>
+    <string name="long_side">Long Side (px)</string>
+    <string name="width">Width (px)</string>
+    <string name="progress">%1$d of %2$d pages</string>
+    <string name="converted_successfully">Converted Successfully.</string>
+    <string name="are_you_sure_cancel">Are you sure you want to cancel?</string>
+    <string name="please_allow_fw_permission">The application\'s file permission was blocked. Please allow it at Setting.</string>
+    <string name="open_setting">Open Setting</string>
+    <string name="incorrect_password">Incorrect Password.</string>
+    <string name="required">Required.</string>
+    <string name="docuemt_password">Password</string>
+    <string name="document_protected">This document is protected.</string>
+    <string name="start">Start</string>
+    <string name="conversion_setting">Conversion Setting</string>
+    <string name="max_size_info">Maximum size is %dpx.</string>
+    <string name="min_size_info">Minimum size is %dpx.</string>
+    <string name="wrong_size_input">Wrong size input.</string>
+    <string name="converted">Converted</string>
+    <string name="noti_when_converted">Notify when converted.</string>
+    <string name="conversion_failed">Failed to Convert.</string>
+    <string name="conversion_canceled">Conversion Canceled.</string>
+    <string name="unknown_error_occurred">An unknown error occurred.</string>
+    <string name="location">Location</string>
+    <string name="converting">Converting</string>
+    <string name="noti_converting_status">Notify converting status.</string>
+    <string name="height">Height (px)</string>
+    <string name="file_format">File Format</string>
+    <string name="keep_ratio">Keep page ratio</string>
+</resources>

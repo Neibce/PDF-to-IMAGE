@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_can_minimize_this_app">앱을 최소화하셔도 계속 진행됩니다.</string>
+    <string name="converting_">변환 중…</string>
+    <string name="select_file">파일 선택</string>
+    <string name="select_pages_to_covert">변환할 페이지를 선택하세요.</string>
+    <string name="loading_file">파일 로드 중…</string>
+    <string name="convert">변환하기</string>
+    <string name="long_side">긴 변 길이 (px)</string>
+    <string name="width">가로 길이 (px)</string>
+    <string name="progress">%1$d / %1$d 페이지</string>
+    <string name="converted_successfully">변환이 완료되었습니다.</string>
+    <string name="are_you_sure_cancel">정말로 취소하시겠습니까?</string>
+    <string name="please_allow_fw_permission">앱의 파일 쓰기 권한이 차단되어 있습니다. 설정에서 허용하여 주시기 바랍니다.</string>
+    <string name="open_setting">설정 열기</string>
+    <string name="incorrect_password">비밀번호가 바르지 않습니다.</string>
+    <string name="required">필수 입력란입니다.</string>
+    <string name="docuemt_password">문서 비밀번호 입력</string>
+    <string name="document_protected">비밀번호가 설정된 문서입니다.</string>
+    <string name="start">시작</string>
+    <string name="conversion_setting">변환 설정</string>
+    <string name="max_size_info">최대 크기는 %dpx 입니다.</string>
+    <string name="min_size_info">최소 크기는 %dpx 입니다.</string>
+    <string name="wrong_size_input">크기가 잘못 입력되었습니다.</string>
+    <string name="converted">변환 완료</string>
+    <string name="noti_when_converted">변환 완료 시 알림.</string>
+    <string name="conversion_failed">변환에 실패하였습니다.</string>
+    <string name="conversion_canceled">변환이 취소되었습니다.</string>
+    <string name="unknown_error_occurred">알 수 없는 오류가 발생하였습니다.</string>
+    <string name="location">파일 위치</string>
+    <string name="converting">변환 중</string>
+    <string name="noti_converting_status">변환 진행 상황 알림</string>
+    <string name="height">세로 길이 (px)</string>
+    <string name="file_format">파일 형식</string>
+    <string name="keep_ratio">가로/세로 비율 유지</string>
+</resources>
