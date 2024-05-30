@@ -20,7 +20,17 @@ jobs:
         distribution: 'temurin'
         cache: gradle
 
+    - name: Create file
+              run: cat /home/runner/work/PDF-to-IMAGE/PDF-to-IMAGE/app/google-services.json | base64
+              
+    - name: Putting data
+      env:
+        DATA: ${{ secrets.GOOGLE_SERVICES_JSON }}
+      run: echo $DATA > /home/runner/work/PDF-to-IMAGE/PDF-to-IMAGE/app/google-services.json
+
+
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
+      
     - name: Build with Gradle
       run: ./gradlew build
