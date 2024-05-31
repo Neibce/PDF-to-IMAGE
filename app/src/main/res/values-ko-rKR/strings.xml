@@ -8,7 +8,7 @@
     <string name="convert">변환하기</string>
     <string name="long_side">긴 변 길이 (px)</string>
     <string name="width">가로 길이 (px)</string>
-    <string name="progress">%1$d / %1$d 페이지</string>
+    <string name="progress">%1$d / %2$d 페이지</string>
     <string name="converted_successfully">변환이 완료되었습니다.</string>
     <string name="are_you_sure_cancel">정말로 취소하시겠습니까?</string>
     <string name="please_allow_fw_permission">앱의 파일 쓰기 권한이 차단되어 있습니다. 설정에서 허용하여 주시기 바랍니다.</string>

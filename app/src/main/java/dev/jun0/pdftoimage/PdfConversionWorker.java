@@ -77,7 +77,7 @@ public class PdfConversionWorker extends Worker {
             else
                 return Result.failure();
         } catch (IOException | ClassNotFoundException e) {
-            e.printStackTrace();
+            //e.printStackTrace();
             notifyWorkResult(Status.FAILED);
             return Result.failure();
         }
