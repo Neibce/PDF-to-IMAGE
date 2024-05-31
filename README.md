@@ -1,4 +1,4 @@
-# PDF-to-IMAGE
+# PDF-to-IMAGE ![Android CI](https://github.com/Neibce/PDF-to-IMAGE/actions/workflows/android.yml/badge.svg)
 PDF to IMAGE Android Application
 [Google Play](https://play.google.com/store/apps/details?id=dev.jun0.pdftoimage)
 
