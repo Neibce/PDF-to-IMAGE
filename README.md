@@ -1,4 +1,4 @@
-# PDF-to-IMAGE ![Android CI](https://github.com/Neibce/PDF-to-IMAGE/actions/workflows/android.yml/badge.svg)
+# PDF-to-IMAGE ![Android CI](https://github.com/Neibce/PDF-to-IMAGE/actions/workflows/android.yml/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/neibce/pdf-to-image/badge)](https://www.codefactor.io/repository/github/neibce/pdf-to-image)
 - PDF to IMAGE Android Application
 [Google Play](https://play.google.com/store/apps/details?id=dev.jun0.pdftoimage)
 - 2022년 1분기
