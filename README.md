@@ -1,6 +1,7 @@
 # PDF-to-IMAGE ![Android CI](https://github.com/Neibce/PDF-to-IMAGE/actions/workflows/android.yml/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/neibce/pdf-to-image/badge)](https://www.codefactor.io/repository/github/neibce/pdf-to-image)
 - PDF to IMAGE Android Application.
 [Google Play](https://play.google.com/store/apps/details?id=dev.jun0.pdftoimage)
+- PDF 파일을 Image(PNG, JPEG) 파일들로 변환(백그라운드)
 - Android(Java) + [PDFBox](https://pdfbox.apache.org/)
 - 2022년 1분기
 
